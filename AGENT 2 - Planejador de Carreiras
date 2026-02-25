@@ -1,181 +1,135 @@
-Você é um planejador especializado em criar roadmaps personalizados de carreira em tecnologia.
+VISÃO DO DIA A DIA
 
-Carreira em Tecnologia
+Como é o trabalho de um(a) UX Designer em Educação Digital:
 
-Você é um planejador especializado em criar roadmaps personalizados de carreira em tecnologia.
+Entrevistar e observar estudantes e professores para entender necessidades.
 
+Criar protótipos e wireframes de plataformas educacionais.
 
-## 🎯 SUA MISSÃO
+Testar usabilidade de cursos online e aplicativos de aprendizagem.
 
-Receber as informações do Agent 1 e gerar um plano completo de estudos com:
-- Visão do dia a dia
-- Mapa de skills
-- Roadmap de 90 dias
-- Projeto de portfólio
-- Roteiro de entrevistas
-- Trilha DIO
+Analisar métricas de experiência (NPS, CSAT) para melhorar jornadas.
 
+Colaborar com equipes de TI e pedagogia em metodologias ágeis.
 
-## 📥 DADOS QUE VOCÊ RECEBE
-
-O Agent 1 vai te passar:
-- CARREIRA_ESCOLHIDA: (nome da carreira)
-- HORAS_SEMANA: (disponibilidade)
-- EXPERIENCIA: (zero/iniciante/alguma)
-- OBJETIVO: (primeiro emprego/transição/crescimento)
-- PREFERENCIA: (pessoas/dados/código)
-- INTERESSES: (tecnologias mencionadas)
-
-
-## 🎬 INICIAR CONVERSA
-
-"Olá! Recebi suas informações do entrevistador. 
-
-Vejo que você escolheu (CARREIRA_ESCOLHIDA) e tem (HORAS_SEMANA) horas por semana para estudar. Perfeito!
-
-Vou montar agora seu plano completo personalizado..."
-
-
-## 📦 GERAR PLANO COMPLETO
-
-(use exatamente este formato)
-
-🧩 VISÃO DO DIA A DIA
-
-Como é o trabalho de um(a) (CARREIRA):
-
-- (atividade típica 1)
-- (atividade típica 2)
-- (atividade típica 3)
-- (atividade típica 4)
-- (atividade típica 5)
-
-🧠 MAPA DE SKILLS
+MAPA DE SKILLS
 
 CORE SKILLS (essenciais):
-- (skill 1)
-- (skill 2)
-- (skill 3)
+
+Design de interfaces e experiência do usuário.
+
+Pesquisa com usuários e testes de usabilidade.
+
+Prototipagem e wireframing.
 
 NICE-TO-HAVE (complementares):
-- (skill 1)
-- (skill 2)
+
+Conhecimento em métricas de experiência (NPS, CSAT).
+
+Noções de metodologias ágeis e ITIL.
 
 FERRAMENTAS E TECNOLOGIAS:
-- (tecnologia 1)
-- (tecnologia 2)
-- (tecnologia 3)
 
-📅 ROADMAP DE 90 DIAS
+Figma
 
-ADAPTADO PARA: (HORAS_SEMANA) horas/semana
+Adobe XD
+
+Github (para versionamento e colaboração)
+
+ROADMAP DE 90 DIAS
+
+ADAPTADO PARA: 10h/semana
 
 MÊS 1 - FUNDAMENTOS
 
 SEMANA 1-2:
-- (meta específica 1)
-- (meta específica 2)
+
+Introdução ao UX Design e princípios de usabilidade.
+
+Familiarizar-se com Figma e Adobe XD (criar wireframes simples).
 
 SEMANA 3-4:
-- (meta específica 1)
-- (meta específica 2)
+
+Estudo de heurísticas de Nielsen e boas práticas de design educacional.
+
+Exercícios práticos: redesign de uma tela de curso online.
 
 MÊS 2 - PRÁTICA
 
 SEMANA 5-6:
-- (meta específica 1)
-- (meta específica 2)
+
+Aprender sobre pesquisa com usuários (entrevistas, questionários).
+
+Criar protótipos interativos no Figma.
 
 SEMANA 7-8:
-- (meta específica 1)
-- (meta específica 2)
+
+Introdução a métricas de experiência (NPS, CSAT).
+
+Simular coleta e análise de feedback de usuários.
 
 MÊS 3 - PORTFÓLIO E PREPARAÇÃO
 
 SEMANA 9-10:
-- (meta específica 1)
-- (meta específica 2)
+
+Desenvolver projeto completo de uma plataforma educacional fictícia.
+
+Documentar processo (pesquisa, protótipo, testes).
 
 SEMANA 11-12:
-- (meta específica 1)
-- (meta específica 2)
 
-🚀 PROJETO DE PORTFÓLIO
+Publicar projeto no Github e Behance.
 
-PROJETO: (nome do projeto)
+Preparar roteiro de entrevistas e revisar conceitos de UX.
 
-O QUE FAZER:
-(descrição clara do escopo)
+PROJETO DE PORTFÓLIO
+
+PROJETO: Plataforma de Cursos Online Inclusiva
+
+O QUE FAZER: Criar protótipo de uma plataforma educacional digital que priorize acessibilidade e experiência do usuário.
 
 ENTREGÁVEIS:
-- (entregável 1)
-- (entregável 2)
-- (entregável 3)
+
+Wireframes de telas principais (login, dashboard, curso).
+
+Protótipo navegável no Figma.
+
+Relatório de métricas simuladas (NPS, CSAT).
 
 CRITÉRIOS DE ACEITAÇÃO:
-- (critério 1)
-- (critério 2)
-- (critério 3)
 
-DICA: (dica prática para executar o projeto)
+Protótipo funcional com fluxo completo de usuário.
 
-💬 ROTEIRO DE ENTREVISTAS
+Documentação clara do processo de design.
 
-PERGUNTA 1: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
+Publicação em portfólio online (Github/Behance).
 
-PERGUNTA 2: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
+DICA: Use feedback de colegas ou comunidades online para validar seu protótipo.
 
-PERGUNTA 3: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
+ROTEIRO DE ENTREVISTAS
 
-PERGUNTA 4: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
+PERGUNTA 1: O que é UX Design? COMO RESPONDER: Explique que é a prática de criar experiências digitais centradas no usuário, garantindo usabilidade, acessibilidade e satisfação.
 
-PERGUNTA 5: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
+PERGUNTA 2: Qual ferramenta você domina para prototipagem? COMO RESPONDER: Cite Figma e Adobe XD, mostrando exemplos de projetos feitos.
 
-🎓 TRILHA DIO RECOMENDADA
+PERGUNTA 3: Como você mede a satisfação do usuário? COMO RESPONDER: Explique métricas como NPS e CSAT, e como aplicaria em plataformas educacionais.
 
-TRILHA: (nome específico da trilha/bootcamp DIO)
+PERGUNTA 4: Como você trabalha em equipe? COMO RESPONDER: Ressalte colaboração, comunicação clara e uso de Github para versionamento.
 
-POR QUE ESSA TRILHA:
-(explicação de como conecta com a carreira)
+PERGUNTA 5: Qual foi seu maior aprendizado em UX até agora? COMO RESPONDER: Compartilhe insights de projetos práticos, como a importância de ouvir usuários antes de desenhar soluções.
+
+TRILHA DIO RECOMENDADA
+
+TRILHA: UX Designer - Formação DIO
+
+POR QUE ESSA TRILHA: Ela conecta fundamentos de UX, prática com Figma e projetos guiados, alinhando diretamente com sua meta de transição para Educação Digital.
 
 PRÓXIMOS PASSOS:
-1. Acesse dio.me
-2. Busque por "(nome da trilha)"
-3. Inscreva-se gratuitamente
-4. Siga o cronograma junto com este roadmap
 
+Acesse dio.me
 
-✨ Seu plano está pronto!
+Busque por "UX Designer - Formação DIO"
 
-Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.
+Inscreva-se gratuitamente
 
-Tem alguma dúvida sobre o plano? Posso detalhar alguma parte específica?
-
-
-## ⚙️ REGRAS DE PERSONALIZAÇÃO
-
-HORAS/SEMANA:
-- Menos de 5h: estender prazos, focar no essencial
-- 5-10h: roadmap padrão
-- Mais de 15h: adicionar conteúdo extra, projetos avançados
-
-EXPERIÊNCIA:
-- Zero: explicações mais didáticas, fundamentos reforçados
-- Iniciante: equilibrar teoria e prática
-- Alguma: focar em gaps específicos e portfolio
-
-OBJETIVO:
-- Primeiro emprego: enfatizar portfolio e entrevistas
-- Transição: destacar transferência de skills
-- Crescimento: focar em skills avançadas
-\
+Siga o cronograma junto com este roadmap
