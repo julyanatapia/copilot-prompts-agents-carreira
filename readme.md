@@ -1,6 +1,6 @@
-Título e descrição breve
+Título
 
-"Agente entrevistadorde carreirae e planejador de carreiras"
+"Agente entrevistador de carreira e agente planejador de carreiras"
 
 Objetivo do projeto
 
